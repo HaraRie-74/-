@@ -1,0 +1,13 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+}
+i{
+  font-size:32px;
+}
+.position{
+  position:absolute;
+  top:100px;
+  right:40px;
+}
